@@ -1,0 +1,45 @@
+:root {
+  --green: #168241;
+  --blue: #1A6B8A;
+  --gold: #D4A853;
+  --white: #ffffff;
+  --light-gray: #f8f9fa;
+  --text-dark: #1a1a1a;
+  --text-medium: #4a4a4a;
+  --font-heading: 'Montserrat', sans-serif;
+  --font-body: 'Nunito Sans', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-body);
+  color: var(--text-dark);
+  line-height: 1.6;
+  background: var(--white);
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-heading);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
