@@ -136,7 +136,7 @@ export default function Footer() {
           </div>
           <div style={styles.contact}>
             <p style={styles.contactLabel}>Contact</p>
-            <a href="tel:8066765115" style={styles.contactPhone}>(806) 676-5115</a>
+            <a href="tel:8779096309" style={styles.contactPhone}>(877) 909-6309</a>
             <span style={styles.contactSite}>amarilloaffordablehousing.com</span>
           </div>
         </div>

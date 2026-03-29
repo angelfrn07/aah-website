@@ -4,7 +4,7 @@ const contactInfo = [
   {
     id: 'phone',
     icon: '📞',
-    heading: '(806) 676-5115',
+    heading: '(877) 909-6309',
     subtext: 'Call or text anytime',
   },
   {
@@ -161,8 +161,8 @@ export default function Contact() {
           <p style={styles.ctaText}>
             Call or text us today. We&rsquo;ll answer your questions and schedule a showing at your convenience.
           </p>
-          <a href="tel:8066765115" style={styles.ctaBtn}>
-            Call (806) 676-5115
+          <a href="tel:8779096309" style={styles.ctaBtn}>
+            Call (877) 909-6309
           </a>
         </div>
       </div>

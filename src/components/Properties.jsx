@@ -201,7 +201,7 @@ export default function Properties() {
                   </li>
                 ))}
               </ul>
-              <a href="tel:8066765115" style={styles.cta}>
+              <a href="tel:8779096309" style={styles.cta}>
                 Call to Schedule a Showing
               </a>
             </div>

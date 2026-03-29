@@ -179,8 +179,8 @@ export default function Hero() {
           />
           <span style={styles.navName}>Amarillo Affordable<br />Housing</span>
         </div>
-        <a href="tel:8066765115" style={styles.navPhone}>
-          (806) 676-5115
+        <a href="tel:8779096309" style={styles.navPhone}>
+          (877) 909-6309
         </a>
       </nav>
 
@@ -197,8 +197,8 @@ export default function Hero() {
           Call or text to schedule a showing.
         </p>
         <div style={styles.ctaGroup} className="hero-cta-group">
-          <a href="tel:8066765115" style={styles.ctaPrimary}>
-            Call (806) 676-5115
+          <a href="tel:8779096309" style={styles.ctaPrimary}>
+            Call (877) 909-6309
           </a>
           <a href="#properties" style={styles.ctaSecondary}>
             View Available Homes
